@@ -1,6 +1,7 @@
 package gorules_test
 
-import ("testing"
+import (
+	"testing"
 
 	"github.com/quasilyte/go-ruleguard/analyzer"
 	"golang.org/x/tools/go/analysis/analysistest"
