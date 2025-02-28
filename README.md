@@ -84,3 +84,9 @@ linters-settings:
         # alternatively
         # enable: "logfatal/noError"
 ```
+
+## Contributing
+
+Feel free to open an [issue](https://github.com/ennyjfrick/ruleguard-logfatal/issues/new) or create a [pull request](https://github.com/ennyjfrick/ruleguard-logfatal/pulls) for any features/bugs/etc. 
+
+If you're creating a pull request, please include test cases when applicable.
